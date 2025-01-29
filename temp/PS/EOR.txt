@@ -1,0 +1,5638 @@
+Defenders of Eorzea
+1.0
+
+normal
+0024
+1
+common
+Scouting Talon
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Bird 
+1
+1
+Flying, vigilance<br>///br///When this creature enters, it explores if you control another Bird. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0028
+2
+common
+Stillglade Initiate
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Dwarf Cleric 
+2
+2
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Tap target creature you don&#8217;t control. This ability costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to activate if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0008
+2
+common
+Fortemps Exemplar
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Elf Soldier 
+3
+1
+Flash<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, Sacrifice this creature: Counter target spell or ability that targets you or a permanent you control.
+<i>&#8220;A smile better suits a hero.&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0009
+2
+common
+Frolicking Friend
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Dog 
+1
+1
+When this creature enters, put a +1/+1 counter on target creature you control. Then draw a card if that creature has discipline.
+<i>Fluffy and full of beans.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0022
+3
+common
+Sandshore Colibri
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Bird 
+2
+1
+Flying<br>///br///Whenever you attack with one or more Birds, surveil 1. <i>(Look at the top card of your library. You may put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0007
+3
+common
+Feather Tuner
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Wizard 
+1
+1
+When this creature enters, create a 2/2 white Bird creature token.<br>///br///<i>Unreal</i> &#8212; This creature gets +2/+2 if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0026
+3
+common
+Starlit Mystic
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Cat 
+3
+2
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | This creature has lifelink if it is attacking.<br>///br///<b>Wizard</b> | This creature has first strike if it is attacking.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0017
+4
+common
+Postmog General
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Moogle 
+4
+2
+Whenever you cycle or discard a card, this creature gets +2/+0 until end of turn. Untap it.
+<i>No calamity shall stay these poms from completing their appointed rounds.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0015
+4
+common
+Mordion Archivist
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Giant 
+3
+3
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | Whenever this creature attacks, untap it and another creature you control.<br>///br///<b>Wizard</b> | Whenever this creature attacks, it and up to one other creature you control gains flying until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0031
+5
+common
+Traveled Scholar
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Elf Wizard 
+2
+5
+<i>Unreal</i> &#8212; This creature has double strike if a permanent phased in or was created under your control this turn.<br>///br///When this creature enters, target permanent phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0005
+5
+common
+Draught Caravan
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Bird 
+3
+4
+Flying<br>///br///When you cycle this card or this creature enters, you gain 2 life.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0020
+5
+common
+Rampant Light
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///Exile target nonland permanent.
+<i>&#8220;O Divine, deliver serenity everlasting!&#8221;<br>///br///&#8212;Image of Shiva, Lady of the Frost</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0029
+4
+common
+Sundered Soul
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Destroy target creature with power or toughness 4 or greater. Surveil 2. <i>(Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0030
+3
+common
+Sweeping Blade
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Target creature you control gains double strike until end of turn. <br>///br///<b>&#8226; </b>Destroy target artifact, enchantment, or token you don&#8217;t control.
+<i>At the end of the crystal line, who will stand victorious? Will it be you?</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0011
+4
+common
+Heavens Aligned
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Put a +1/+1 counter on each creature you control. They gain vigilance until end of turn.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0013
+1
+uncommon
+Jack of All Trades
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Cat 
+2
+1
+This creature is also a Cleric, Rogue, Warrior, and Wizard.<br>///br///<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: This creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0004
+2
+uncommon
+Chocobo Training
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+When you cast this spell, you may phase out a creature you control. If you do, copy this spell. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i><br>///br///Create a 2/2 white Bird creature token. You gain 1 life for each Bird you control.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0006
+2
+uncommon
+Erstwhile Missionary
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Azra 
+1
+4
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | Whenever a creature you control with a counter attacks, you gain 1 life.<br>///br///<b>Wizard</b> | <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: Put a +1/+1 counter on another target creature you control.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0027
+3
+uncommon
+Steppe Daughter
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+2
+3
+Vigilance<br>///br///At the beginning of your end step, you gain 1 life and put a +1/+1 counter on this creature if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0018
+3
+uncommon
+Pursy Pussy
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Cat 
+3
+3
+Flying<br>///br///When you cycle this card or this creature enters, return target permanent you control to its owner&#8217;s hand.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0003
+4
+uncommon
+Brume Illusionist
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Elf Wizard 
+3
+3
+Creatures you control with a +1/+1 counter on them have vigilance.<br>///br///<i>Unreal</i> &#8212; <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: Put a +1/+1 counter on this creature. This ability costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to activate if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0016
+5
+uncommon
+Pomguard Squad
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Moogle 
+4
+4
+This creature gets +1/+1 and can block an additional creature each combat for each token you control.<br>///br///Whenever you cycle or discard a card, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0012
+2
+uncommon
+Immolating Glare
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Destroy target attacking creature.
+<i>The arcane art of succor was conceived eras past that the world might know comfort. Alas, man began perverting its powers for self-gain, and brought about the Sixth Umbral catastrophe.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0001
+3
+uncommon
+Adloquium
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Prevent all damage that would be dealt to you until your next turn. All nonland permanents you control phase out. <i>(Treat them and anything attached to them as though they don&#8217;t exist until their controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0032
+1
+uncommon
+Troubadour's Melody
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Return target spell to its owner&#8217;s hand if it&#8217;s a noncreature spell or you are boosted as this spell resolves. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0002
+1
+rare
+Adventurous Hatchling
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Bird 
+1
+1
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, create a token that&#8217;s a copy of this creature.<br>///br///This creature gets +1/+0 for each creature you control named Adventurous Hatchling.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0025
+2
+rare
+Snowcloak Herald
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Azra Cleric 
+2
+2
+Noncreature spells cost <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> more to cast. You may ignore this effect if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Exile target card in a graveyard. If you own that card, you gain 2 life.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0014
+3
+rare
+Minfilia, Scion Antecedent
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Wizard 
+3
+3
+Creatures you control phasing in cause triggered abilities of permanents you control to trigger as though they entered.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Another target creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0002
+4
+rare
+A Hero of Light
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Planeswalker
+
+
+A Hero of Light&#8217;s abilities cost an additional <span class="symbol"><img src='magic-mana-small-1.png' alt='+1' width='14' height='14'></span> to activate for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i><br>///br///0: Until end of turn, this planeswalker becomes a 5/5 white creature with indestructible that&#8217;s also a Cleric, Rogue, Warrior, and Wizard. <i>(They don&#8217;t lose loyalty while not a planeswalker.)</i><br>///br///[-X]: Reveal the top X cards of your library. Put all creature and planeswalker cards revealed this way into your hand and the rest on the bottom of your library in a random order.<br>///br///Starting loyalty: 4
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0010
+5
+rare
+Gysahl Glutton
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Bird 
+4
+4
+As this creature enters, choose flying, vigilance, or lifelink.<br>///br///Other Birds you control get +1/+1 and have the chosen ability.<br>///br///Flying, vigilance, lifelink
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0021
+7
+rare
+A Realm Reborn
+white
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Restart the game, leaving in exile all cards in exile. Exile this spell.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, Discard this card: Draw a card.)</i><br>///br///When you cycle this card, exile it. You may cast it as long as it is exiled.
+<i>Now open your eyes while our plight is repeated.<br>///br///Still deaf to our cries, lost in hope we lie defeated.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0023
+3
+rare
+Save Our Star
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+If you control 13 or more tokens, you win the game. Otherwise, you gain 1 life and create a Map token for each card type among cards in your graveyard. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0019
+4
+rare
+Push the Crystal
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+<i>Unreal</i> &#8212; This spell costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast if a permanent phased in or was created under your control this turn.<br>///br///Search your library for a legendary or planeswalker card, reveal it, put it into your hand, then shuffle.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+fuse split
+0003
+4
+mythic rare
+Chocobo Racetrack
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever you discard one or more cards, create that many 2/2 white Bird creature tokens.
+
+Square Enix
+Hairpin Turn
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+At the beginning of your end step, untap all nonland permanents you control.
+
+Square Enix
+===========
+fuse split
+0005
+3
+mythic rare
+Sagolii Desert
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, exile up to two target artifacts and/or enchantments.
+
+Square Enix
+Gold Saucer
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+Creatures you control get +1/+0 and have vigilance.
+
+Square Enix
+===========
+fuse split
+0006
+3
+mythic rare
+Thornmarch
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, return target permanent card in your graveyard to the battlefield if it was put there from anywhere this turn.
+
+Square Enix
+Mogscourt
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+When this side is cleared, return target permanent card in your graveyard to the battlefield if its mana value is 3 or less.
+
+Square Enix
+===========
+fuse split
+0004
+3
+mythic rare
+Crystalline Floe
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, exile target nonland permanent you don&#8217;t control until this battle leaves the battlefield.
+
+Square Enix
+Aether Drift
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+Whenever you discard a card, target creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+===========
+normal
+0043
+2
+common
+Illusory Morpho
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Insect 
+1
+1
+Flying<br>///br///<i>Unreal</i> &#8212; When this creature enters, tap target permanent you don&#8217;t control. That permanent doesn&#8217;t untap during its controller&#8217;s next untap step if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0052
+2
+common
+Rhotano Scoundrel
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Rogue 
+
+
+Whenever this creature attacks, you may draw a card. If you do, discard a card unless an artifact entered under your control this turn.
+<i>&#8220;Back for more, eh? I sharpened me blade, just fer this very occasion.&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0055
+2
+common
+Shoaltooth Keeper
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Merfolk 
+2
+1
+When this creature enters or dies, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+<i>&#8220;What your step, shorewalker.&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0044
+3
+common
+Imperfect Gentleman
+blue, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Shapeshifter 
+1
+2
+This creature is also a Cleric, Rogue, Warrior, and Wizard.<br>///br///When this creature enters, put a +1/+1 counter on it for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0061
+3
+common
+Tricorne Spellblade
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Dwarf 
+3
+2
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | Noncreature spells you cast on other player&#8217;s turns cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast.<br>///br///<b>Wizard</b> | Noncreature spells you cast on your turn cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0064
+4
+common
+Wyrmwing Attuner
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Dwarf Wizard 
+3
+2
+<i>Unreal</i> &#8212; This spell costs <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> less to cast if a permanent phased in or was created under your control this turn.<br>///br///Flying<br>///br///This creature enters tapped.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0040
+4
+common
+Dutiful Sisters
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Cat 
+2
+5
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | Whenever you cast a spell, this creature can&#8217;t be blocked this turn.<br>///br///<b>Wizard</b> | Whenever you cast a spell, untap this creature.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0033
+5
+common
+Admiral's Scourge
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Giant Rogue 
+3
+3
+Whenever this creature attacks and isn&#8217;t blocked, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>: This creature gets +1/-1 or -1/+1 until end of turn. Activate only if an artifact entered under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0048
+5
+common
+Ninki Nanka
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Beast 
+4
+4
+When you cycle this card or this creature enters, surveil 2. <i>(Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i><br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0035
+5
+common
+Bizarre Fantasia
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i><br>///br///Create a token that&#8217;s a copy of target creature you control.
+<i>&#8220;I can&#8217;t mimic you without getting closer.&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0058
+2
+common
+Spell Splinter
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target spell unless its controller pays <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span>, where X is the number of creatures in your party plus 2. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0046
+4
+common
+Looking for Help
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+<i>Unreal</i> &#8212; Draw three cards. Then discard a card unless a permanent phased in or was created under your control this turn.
+<i>Seeking: Members for practice run. Must have clear experience!</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0049
+1
+common
+Othard Ferry
+blue, artifact, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact — Vehicle 
+3
+3
+When this artifact enters, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.<br>///br///Crew 2 <i>(Tap creatures you control with total power 2 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0045
+5
+common
+Leviathan's Grasp
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast if its target is an attacking or blocking creature.<br>///br///Put target creature you don&#8217;t control on top of its owner&#8217;s library. Create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0034
+3
+common
+Aether Currents
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Up to three target creatures phase out. <i>(Treat them and anything attached to them as though they don&#8217;t exist until their controller&#8217;s next turn.)</i><br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0041
+1
+uncommon
+Elusive Aurelia
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Jellyfish 
+1
+1
+<i>Unreal</i> &#8212; When this creature enters, create a Map token if a permanent phased in or was created under your control this turn. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///This creature can&#8217;t be blocked.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0060
+2
+uncommon
+Surecast Adept
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human 
+2
+1
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | Whenever you cast a noncreature spell, this creature gets +2/+2 until end of turn.<br>///br///<b>Wizard</b> | You may spend mana as though it were mana of any type to cast noncreature spells. They can&#8217;t be countered.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0059
+2
+uncommon
+Starlit Skywatch
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Cat Wizard 
+1
+3
+<i>Unreal</i> &#8212; You may look at the top card of each player&#8217;s library if a permanent phased in or was created under your control this turn.<br>///br///<span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Each player mills a card. Activate only once each turn. <i>(They put the top card of their library into their graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0042
+3
+uncommon
+Flying Sardine
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Fish 
+0
+4
+Flash<br>///br///Flying<br>///br///Whenever you draw a card, put a +1/+1 counter on this creature.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0039
+4
+uncommon
+Crystalline Brigand
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Giant 
+3
+3
+This creature is also a Cleric, Rogue, Warrior, and Wizard.<br>///br///<span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span>: This creature has base power and toughness X/X until end of turn. This ability costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0056
+5
+uncommon
+Skilled Aesthetician
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Rogue 
+4
+2
+This creature can&#8217;t be blocked if an artifact entered under your control this turn.<br>///br///At the beginning of combat on your turn, you may move a counter from this creature to another target creature you control. If you do, that creature can&#8217;t be blocked this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0050
+1
+uncommon
+Records from Another World
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Draw two cards, then put a card from your hand on top of your library. Create a Map token.  <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+<i>&#8220;Welcome to the visual guide for...&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0063
+3
+uncommon
+Whirlwind Denial
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+For each spell and ability your opponents control, counter it unless its controller pays <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>.
+<i>The last of the First Brood rallied its kin, but the Azure Dragoon drew wyrmblood and ended Nidhogg&#8217;s reign.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0054
+2
+uncommon
+Scrap Submersible
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact — Vehicle 
+4
+4
+Whenever this artifact attacks, up to one target creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i><br>///br///Crew 3 <i>(Tap creatures you control with total power 3 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0051
+7
+uncommon
+Recruit a Friend
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i><br>///br///Gain control of target creature.
+<i>&#8220;Illustrated above is a vulgar greeting practiced in faraway lands. While we respect their customs, we ask you not replicate it among pleasant company.&#8221;<br>///br///&#8212;</i>Ballroom Etiquette, Improper Greetings
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0057
+1
+rare
+Skyline Trickster
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human 
+1
+1
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | Abilities you activate cost <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to activate. This effect can&#8217;t reduce the mana in that cost to less than one mana.<br>///br///<b>Wizard</b> | <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: Draw a card.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0053
+2
+rare
+Riptide Matriarch
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Merfolk Wizard 
+2
+1
+Flash<br>///br///<i>Unreal</i> &#8212; When this creature enters, return target instant or sorcery card in you graveyard to your hand. You may cast a copy of that card if a permanent phased in or was created under your control this turn. <i>(You still pay its costs.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0047
+3
+rare
+Merlwyb, Storm Admiral
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Giant Rogue 
+3
+2
+During each of your turns, you may create a Map token instead of playing a land. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///Whenever you sacrifice a Map, put a +1/+1 counter on this creature.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0036
+4
+rare
+Bottomless Crags
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+3
+6
+Whenever this enchantment enters or you attack with one or more Primal, tap up to one target permanent. That permanent doesn&#8217;t untap during its controller&#8217;s next untap step.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: This enchantment becomes a legendary Primal creature in addition to its other types. Activate only as a sorcery. <i>(This effect lasts indefinitely.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0038
+6
+rare
+Cancerous Threat
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Crab 
+6
+6
+Whenever this creature becomes the target of a spell or ability an opponent controls, that player discards a card.<br>///br///Whenever a player discards one or more cards, draw that many cards.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+<i>At least it&#8217;s not lupus.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0007
+6
+rare
+Marilye, Veiled Deceiver
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Planeswalker — Marilye 
+
+
+<i>Unreal</i> &#8212; You may activate an additional loyalty ability of this planeswalker if a permanent phased in or was created under your control this turn.<br>///br///+1: Draw a card. Create a Map token if you&#8217;ve drawn three or more cards this turn. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///-5: Exile another target permanent. Create a token that&#8217;s a copy of that permanent, except it&#8217;s an artifact in addition to its other types.<br>///br///Starting loyalty: 5
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0037
+4
+rare
+Brave the Cold
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Each player chooses a party from among creatures they control. Return each nonland permanent not chosen this way to their owner&#8217;s hands. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0062
+6
+rare
+Whalaqee Gambit
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> less to cast, where X is the total mana value of noncreature spells you cast this turn.<br>///br///Draw cards equal to the amount of mana spent to cast this spell.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+fuse split
+0010
+1
+mythic rare
+Sastasha Seagrot
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: Surveil 2. <i>(Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i>
+
+Square Enix
+Pirate Cove
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+Whenever a creature you control attacks and isn&#8217;t blocked, draw a card.
+
+Square Enix
+===========
+fuse split
+0009
+1
+mythic rare
+Relict Isle
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever you draw your second card each turn, target creature you control explores.
+
+Square Enix
+Pharos Sirius
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+When this side is cleared, draw two cards, then discard two cards.
+
+Square Enix
+===========
+fuse split
+0008
+4
+mythic rare
+Grand Archive
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, put up to one target nonland permanent on top of its owner&#8217;s library.
+
+Square Enix
+Gubal Library
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+When this side is cleared, choose a card name.<br>///br///Spells with the chosen name cost <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> more to cast.
+
+Square Enix
+===========
+fuse split
+0011
+2
+mythic rare
+Syrcus Tower
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever this side is cleared, choose a creature type.<br>///br///Creatures you control are also the chosen type.
+
+Square Enix
+Allagan Records
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+When this side is cleared, each player shuffles their hand and graveyard into their library. Each player draws seven cards.
+
+Square Enix
+===========
+normal
+0079
+1
+common
+Imperial Standard
+black, artifact, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact
+
+
+When this artifact enters, amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Sacrifice this artifact: Amass 1.
+<i>For glory, Garlemald!</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0081
+2
+common
+Invasive Diremite
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Insect 
+2
+1
+Deathtouch<br>///br///Whenever you cycle or discard a card, surveil 1. <i>(Look at the top card of your library. You may put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0068
+2
+common
+Conscripted Regiment
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Soldier 
+1
+1
+When this creature enters or dies, amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Remove a counter from a permanent you control: Each opponent loses 1 life.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0088
+2
+common
+Midnight Wings
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Bat 
+1
+1
+Flying<br>///br///Whenever this creature attacks and isn&#8217;t blocked, you may search your library for a card named Midnight Wings, reveal it, put it into your hand, then shuffle. If you don&#8217;t, you gain 1 life.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0072
+3
+common
+Displaced Doman
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Azra Rogue 
+3
+2
+Flash<br>///br///This creature has first strike if an artifact entered under your control this turn.
+<i>The Far East refugees were familiar with the Empire&#8217;s threats, and were still willing to join the cause.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0089
+3
+common
+Mudslick Puppy
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Salamander 
+2
+3
+Whenever a creature you control explores, each opponent loses 1 life.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard a card: Create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0087
+4
+common
+Mhach Experiments
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+3
+3
+Menace<br>///br///Whenever you cycle or discard a card, this creature explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0070
+4
+common
+Deadwood Hunter
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Cat 
+4
+2
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | This creature has deathtouch if it is attacking.<br>///br///<b>Warrior</b> | This creature has lifelink if it is attacking.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0066
+5
+common
+Castrum Reinforcements
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Amass 3. Then each opponent loses life equal to the greatest power among Armies you control. <i>(Put three +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0083
+5
+common
+Lady in Waiting
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon 
+5
+2
+When you cycle this card or this creature enters, destroy up to one target creature that was dealt damage this turn.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0080
+3
+common
+Inevitable End
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+This spell can&#8217;t be countered.<br>///br///Destroy target battle, creature, or planeswalker you don&#8217;t control.
+<i>All good things...</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0094
+4
+common
+Touch of the Black Rose
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Remove all counters from up to one target permanent. Creatures get -1/-1 until end of turn.
+<i>It&#8217;s surprising how one drop of darkness is enough to pollute the entirety of the continent. Truly an elegant solution.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0096
+1
+common
+Visited by Death
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Until end of turn, target creature you control gains &#8220;When this creature dies, return it to the battlefield tapped under its owner&#8217;s control with a +1/+1 counter on it.&#8221;<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0065
+3
+common
+Calling the Void
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target player loses 2 life, draws two cards, and creates two Map tokens. <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0073
+1
+common
+Duress
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+<i>&#8220;Who dares summon me from the void to reside within this crude vessel?&#8221;<br>///br///&#8212;Galvanth, Gelmorran soulflayer</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0069
+2
+uncommon
+Corrupted Sailor
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Zombie Rogue 
+2
+1
+Menace<br>///br///Whenever this creature deals combat damage to a player, that player discards a card if an artifact entered under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0084
+2
+uncommon
+Life for Empire
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Amass 2. Each player sacrifices a creature. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0085
+3
+uncommon
+Lingering Revenant
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Spirit 
+3
+1
+When this creature dies, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///You may cast this spell from your graveyard if a creature you control explored this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0091
+3
+uncommon
+Praefectus Executor
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Giant Soldier 
+2
+2
+Whenever this creature attacks, you may remove a counter from a permanent you control. If you do, amass 2. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0090
+4
+uncommon
+Ominous Ahriman
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Eye 
+0
+4
+Flying<br>///br///This creature gets +1/+0 for each card in your graveyard.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0077
+5
+uncommon
+Gaping Maw
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+3
+4
+Lifelink<br>///br///When this creature enters, choose two. You may choose the same mode more than once.<br>///br///<b>&#8226; </b>Each opponent discards a card.<br>///br///<b>&#8226; </b>Return target creature card in your graveyard to your hand.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0075
+4
+uncommon
+Futures Forfeit
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Exile target battle, creature, or planeswalker. You may play battle cards exiled this way, and mana of any type can be spent to cast them.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0086
+1
+uncommon
+Lost to the Lifestream
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Target creature gets -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0097
+6
+uncommon
+Void Calling
+black
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each counter removed this way.<br>///br///Put target creature card in a graveyard onto the battlefield.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0092
+2
+uncommon
+Refined Ceruleum
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+At the beginning of the next end step, amass X, where X is the number of artifacts and creatures that died this turn. <i>(To amass X, where X, create X +1/+1 counters on an Army you control. It&#8217;s also a X, where. If you don&#8217;t control an Army, create a 0/0 black X, where Army creature token first.)</i><br>///br///Draw a card.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0078
+1
+rare
+Hired Assassin
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Rogue 
+1
+2
+This creature gets +3/+3 if an artifact entered under your control this turn.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Create a Map token. This creature gains deathtouch until end of turn. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0082
+2
+rare
+Keeper of the Vault
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Elf Soldier 
+2
+1
+Lifelink<br>///br///At the beginning of your upkeep, draw a card. You lose 2 life unless you remove a counter from a permanent you control.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0067
+3
+rare
+Cloud of Darkness
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Spirit 
+4
+4
+Flying<br>///br///This creature can&#8217;t attack or block unless you cycled or discarded a card this turn.<br>///br///Nonland cards in your hand have &#8220;Cyling&#8212;Pay 2 life.&#8221; <i>(They have &#8220;Pay 2 life, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0076
+5
+rare
+Gaius, Sable Legatus
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Soldier 
+5
+4
+Menace<br>///br///Whenever this creature attacks, you may remove a counter from any number of permanents you control. If you do, amass X, where X is the number of counters removed this way. <i>(To amass X, where X, create X +1/+1 counters on an Army you control. It&#8217;s also a X, where. If you don&#8217;t control an Army, create a 0/0 black X, where Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0095
+6
+rare
+The Ultima Weapon
+black, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Artifact — Vehicle 
+7
+7
+If a card or token would be put into a graveyard from anywhere, you may instead exile it with a core counter.<br>///br///This artifact has the abilities of cards exiled with a core counter if it is on the battlefield.<br>///br///Crew 4 <i>(Tap creatures you control with total power 4 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0093
+5
+rare
+Repurpose Remnants
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Target opponent sacrifices a battle, creature, and planeswalker. When they do, you may distribute X +1/+1 counters among any number of target creatures you control, where X is the total number of counters on permanents sacrificed this way.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0074
+1
+rare
+From the Thirteenth
+black
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Each opponent loses X life. Create X Map tokens. <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0071
+4
+rare
+Desperate Measures
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Choose a nonland card name. Search target opponent&#8217;s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Discard this card: Draw a card.)</i><br>///br///When you cycle this card, exile it. You may cast it as long as it is exiled.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+fuse split
+0014
+1
+mythic rare
+Forward Camp
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+Carteneau Flats
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+When this side is cleared, each opponent loses life and you gain life equal to the greatest power among Army creatures you control.
+
+Square Enix
+===========
+fuse split
+0015
+2
+mythic rare
+Haukke Manor
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever you lose life, create a Map token.  <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+Mistress Bedroom
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+When side is cleared, draw two cards. Each player loses 2 life.
+
+Square Enix
+===========
+fuse split
+0012
+2
+mythic rare
+Dravanian Ruin
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever a creature you control dies, target creature you control explores.
+
+Square Enix
+Stone Vigil
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+When this side is cleared, put target creature card in your graveyard onto the battlefield.
+
+Square Enix
+===========
+fuse split
+0013
+3
+mythic rare
+Dun Scaith
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Creatures get -1/-1.
+
+Square Enix
+Demonic Gate
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+When this side is cleared, search your library for a card, put it into your hand, then shuffle.
+
+Square Enix
+===========
+normal
+0115
+1
+common
+Miner Problems
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Kobold 
+1
+1
+Trample<br>///br///<i>Unreal</i> &#8212; When this creature enters, put a +1/+1 counter on it if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0121
+1
+common
+Open Enlistment
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, pay <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> or remove a counter from a permanent you control.<br>///br///Amass 2. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0128
+2
+common
+Thanalan Jockey
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Bird 
+2
+1
+Whenever this creature attacks, surveil 1 if you are boosted.<b> <i>(To surveil 1, look at the top card of your library. You may put it into your graveyard. Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i></b><br>///br///<span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Target Bird you control gains haste until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0102
+2
+common
+Coliseum Fighter
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dwarf Warrior 
+3
+1
+This creature attacks each combat if able.<br>///br///Whenever this creature deals damage to one or more permanents, discard a card and draw a card.
+<i>Belah&#8217;dia established arenas to punish criminals, but anyone was allowed join and risk their lives for a pretty coin.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0129
+3
+common
+Unstable Core
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Elemental 
+4
+1
+When this creature enters, up to one other target creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i><br>///br///<i>Unreal</i> &#8212; <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, Sacrifice this creature: Add two mana of different colors. Activate only if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0125
+3
+common
+Sandgate Trailblazer
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human 
+3
+2
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | Whenever this creature attacks, up to one target creature can&#8217;t block this turn.<br>///br///<b>Warrior</b> | Whenever this creature attacks, tokens can&#8217;t block this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0117
+3
+common
+New Alliances
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Exile the top two cards of your library. You may play those cards until the end of your next turn. Amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0124
+4
+common
+Roadworn Mercenary
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elf Warrior 
+3
+3
+Whenever this creature deals damage to one or more permanents, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0120
+4
+common
+Off to the Races
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Create two 2/2 white Bird creature tokens. Creatures you control gain haste until end of turn.
+<i>FT<br>///br///FT</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0114
+5
+common
+Inspiring Minstrel
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human 
+5
+5
+Reach<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, Sacrifice a land: Amass 2. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0104
+5
+common
+Devastating Blow
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+This spell deals 5 damage to target permanent. Draw a card if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0122
+1
+common
+Piercing Note
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+<i>Unreal</i> &#8212; This spell deals 2 damage to any target. Instead it deals 3 damage to that target if a permanent phased in or was created under your control this turn.
+<i>The word </i>bard<i> ordinarily puts folk in mind of those itinerant minstrels, but many are oft to forget how nimble of finger they can be.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0130
+4
+common
+Violent Impact
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Destroy target artifact or land.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+<i>Initiates find that the issue isn&#8217;t drawing enough power. Rather, it is making sure they don&#8217;t blow their own hands off.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0101
+2
+common
+Battle High
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+<i>Unreal</i> &#8212; Target creature you control gets +2/+0 and gains first strike until end of turn. That creature also gets +2/+0 and gains trample until end of turn if a permanent phased in or was created under your control this turn.
+<i>When shattering one spine isn&#8217;t good enough.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0110
+3
+common
+From Scratch
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Remove a counter from any number of target permanents. The next time a creature dies this turn, amass 2. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0112
+1
+uncommon
+Hotshot Cadet
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Soldier 
+1
+2
+When this creature enters, amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Remove a counter from a permanent you control: Double this creature&#8217;s power until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0106
+2
+uncommon
+Feathered Dancer
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Bird 
+1
+1
+Creatures you control with first strike have double strike if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: Target Bird you control gains first strike until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0127
+2
+uncommon
+Steadfast Wanderer
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human 
+2
+2
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Rogue</b> | Creatures you control without trample can&#8217;t be blocked if attacking creatures you control with trample are not blocked.<br>///br///<b>Warrior</b> |  <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Target creature you control gains trample until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0109
+3
+uncommon
+Frenzied Marauder
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Giant Warrior 
+3
+2
+Menace<br>///br///Whenever this creature deals damage to one or more permanents, exile the top card of your library. You may play that card until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0111
+4
+uncommon
+Frontline Exercise
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Amass 1, then amass 1 for each creature you control. When you do, you may have target Army you control deal damage equal to its power to target permanent, <i>(To amass 1, then amass 1, create a +1/+1 counter on an Army you control. It&#8217;s also a 1, then amas. If you don&#8217;t control an Army, create a 0/0 black 1, then amas Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0105
+3
+uncommon
+Dragon's Plight
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+<i>Unreal</i> &#8212; Choose one. Instead choose both if a permanent phased in or was created under you control this turn.<br>///br///<b>&#8226; </b>Copy target instant or sorcery spell. You may choose new targets for the copy.<br>///br///<b>&#8226; </b>This spell deals 2 damage to each permanent.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0100
+4
+uncommon
+Baptised in Flame
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///Gain control of target permanent you don&#8217;t control until end of turn. Untap it. It gains haste until end of turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0113
+2
+uncommon
+Inner Release
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Target creature you control gains double strike until end of turn. Whenever that creature deals damage this turn, it explores.
+<i>Strike fast and true, for victory belongs to the bold.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0103
+3
+uncommon
+Dancing Mad
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Up to two target creatures get +1/+0 and gain first strike until end of turn. They must be blocked this turn if able.
+<i>&#8220;Are you looking? Why are you looking? YOU SHOULDN&#8217;T BE LOOKING!&#8221;<br>///br///&#8212; Unnamed harlequin</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0099
+1
+rare
+Auspice of Rebirth
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Bird 
+2
+1
+Whenever a Bird you control enters, you may put this creature onto the battlefield from your hand or graveyard if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0107
+2
+rare
+Field Commander
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elf Soldier 
+2
+2
+Menace<br>///br///Whenever a player amasses any amount, this creature deals that much damage to each player.
+<i>The Crystal Braves were established to pave the way for a unified Eorzea. But that would prove to be too naive a dream.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0116
+3
+rare
+Nanamo, Grand Sultana
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Dwarf Warrior 
+2
+2
+This creature has double strike if it is attacking.<br>///br///Whenever an opponent casts a spell, put a +1/+1 counter on this creature. This creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0126
+4
+rare
+Smoldering Bowl
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+6
+3
+Whenever this enchantment enters or you attack with one or more Primals, exile the top card of target opponent&#8217;s library. You may play it without paying its mana cost.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: This enchantment becomes a legendary Primal creature in addition to its other types. Activate only as a sorcery. <i>(This effect lasts indefinitely.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0118
+6
+rare
+New World Tyrant
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon 
+6
+4
+Flying, haste<br>///br///Whenever a creature you control explores, search your library for a battle card, reveal it, put it into your hand, then shuffle.
+<i>When the wyrm first descended, a question raced through the tracker&#8217;s mind &#8212; were they the hunters or the hunted?</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0108
+7
+rare
+Flames of Rebellion
+red
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, remove a counter from any number of permanents you control. This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each counter removed this way.<br>///br///Each player sacrifices four lands.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0119
+3
+rare
+Nymian Ritual
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'><img src='magic-mana-small-C.png' alt='C' width='14' height='14'><img src='magic-mana-small-C.png' alt='C' width='14' height='14'><img src='magic-mana-small-C.png' alt='C' width='14' height='14'><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>. You may spend mana as though it were mana of any type this turn if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0123
+2
+rare
+Reckless Research
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+<i>Unreal</i> &#8212; Discard your hand. Draw two cards. Instead draw three cards if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+fuse split
+0016
+2
+mythic rare
+Avenue Exchange
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, add two mana in any combination of colors. You don&#8217;t lose that mana as steps and phases end this turn.
+
+Square Enix
+Salvage Shop
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+When this side is cleared, each player sacrifices an artifact. Then if you sacrificed an artifact this turn, draw a card.
+
+Square Enix
+===========
+fuse split
+0017
+2
+mythic rare
+Burning Gaol
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, it deals 4 damage to up to one other target permanent.
+
+Square Enix
+Halatali Crucible
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+Players can&#8217;t gain life. Damage can&#8217;t be prevented.
+
+Square Enix
+===========
+fuse split
+0019
+4
+mythic rare
+Last Bastion
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever you attack, amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+Rising Stones
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+When this side is cleared, search your library for a battle card, reveal it, put it into your hand, then shuffle. 
+
+Square Enix
+===========
+fuse split
+0018
+5
+mythic rare
+Guerilla Tunnels
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, untap all creatures you control. If it&#8217;s your turn, there is an additional combat phase after this phase.
+
+Square Enix
+Kobold Forge
+red
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+The first time you cast a spell on each of your turns, reveal the top card of your library. You may play that card without paying its mana cost.
+
+Square Enix
+===========
+normal
+0153
+2
+common
+Seedseer Aspirant
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Cleric 
+2
+2
+This creature must be blocked if able if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-8.png' alt='8' width='14' height='14'></span>: Put a +1/+1 counter on this creature.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0148
+2
+common
+Mandragora Clique
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Plant 
+2
+1
+This creature is also a Cleric, Rogue, Warrior, and Wizard.<br>///br///When this creature enters, target creature you control gets +1/+1 for each creature in your party until end of turn. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0142
+2
+common
+Dodo of Paradise
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Bird 
+1
+1
+When this creature enters, target creature you control explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0132
+3
+common
+Arboretum Cluster
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Plant 
+3
+3
+Whenever a creature you control explores, surveil 2. <i>(Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i>
+<i>Even when Sant Mocianne&#8217;s was abandoned, the seedkin somehow still thrived.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0146
+3
+common
+Hinterland Highlander
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Giant Warrior 
+1
+4
+Whenever this creature deals damage to one or more permanents, target creature you control explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0160
+3
+common
+Traditional Elder
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf 
+3
+3
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | Vigilance<br>///br///<b>Warrior</b> | Reach
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0147
+4
+common
+Keeper of Seasons
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Azra Cleric 
+2
+2
+When this creature enters, choose one. You may instead choose both if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<b>&#8226; </b>Put two +1/+1 counters on this creature.<br>///br///<b>&#8226; </b>You gain 4 life.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0131
+4
+common
+Apiary Protector
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human 
+4
+3
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | Spells your opponents cast that target this creature costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> more to cast.<br>///br///<b>Warrior </b>| Spells you cast that target this creature cost <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0143
+5
+common
+Ehcatl Brightfeather
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Bird 
+4
+4
+Vigilance<br>///br///When this creature enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+<i>&#8220;Featherless neuker! Back you must stay, or a second time, I will demand!&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0134
+5
+common
+Borderlands Billy
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Goat 
+5
+4
+Trample<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: This creature explores. Activate only as a sorcery. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0158
+6
+common
+Territorial Canopy
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Plant 
+6
+6
+Reach<br>///br///Whenever a creature you control explores, untap this creature.
+<i>Early settlers flocked to Gridania to seek a fortune in lumber. That is, until the trees decided to fight back.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0145
+3
+common
+Gathering Strength
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Put a +1/+1 counter on target creature you control for each creature in your party. It deals damage equal to its power to target permanent you don&#8217;t control. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0141
+4
+common
+Desynthesis
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Destroy target artifact, battle or enchantment. Draw a card if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0162
+1
+common
+Uncovering the Wilds
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Up to two target creatures you control gain vigilance until end of turn. Each of those creatures explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0151
+1
+common
+Roads Well Traveled
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Search you library for a basic land card, reveal it, then put it in your hand, then shuffle. You may put a land card from your hand onto the battlefield tapped if a creature you control explored this turn.
+<i>The path shall ever be revealed to those who are true of heart.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0149
+1
+uncommon
+Orchard Keeper
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Dwarf Cleric 
+1
+1
+The first creature spell you cast each turn costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>: Surveil 1. <i>(Look at the top card of your library. You may put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0144
+2
+uncommon
+Faetouched Vagabond
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human 
+2
+1
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | Whenever you cast a spell or activate an ability that targets this creature, copy that spell or ability. You may choose new targets for the copy.<br>///br///<b>Warrior</b> | Pay 4 life: Prevent all damage that would be dealt to this creature this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0159
+2
+uncommon
+Territorial Phurble
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Beast 
+3
+3
+Whenever another creature or land you control enters, put a +1/+1 counter on this creature.<br>///br///This creature can&#8217;t attack or block unless the sum of its power and toughness is 10 or greater.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0155
+3
+uncommon
+Sharlayan Gleaner
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Rabbit 
+2
+1
+This creature is also a Cleric, Rogue, Warrior, and Wizard.<br>///br///When this creature enters, you may shuffle target artifact, battle, or enchantment into its owner&#8217;s library.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0136
+4
+uncommon
+Chocobokeep
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human 
+3
+3
+Whenever a creature you control explores, create a 2/2 white Bird creature token. Trigger this ability only once each turn<br>///br///<span class="symbol"><img src='magic-mana-small-8.png' alt='8' width='14' height='14'></span>: This creature explores. Activate only as a sorcery.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0140
+5
+uncommon
+Deepwood Watcher
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Cat Warrior 
+5
+5
+Vigilance<br>///br///Whenever this creature deals damage to one or more permanents, put target permanent card in your graveyard on top of your library.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0152
+6
+uncommon
+Rugged Guardian
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Giant 
+4
+5
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i><br>///br///Flash<br>///br///This creature is also a Cleric, Rogue, Warrior, and Wizard.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0137
+3
+uncommon
+Choose Your Weapon
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Choose one &#8212;<br>///br///<b>&#8226; </b>Double target creature&#8217;s power and toughness until end of turn.<br>///br///<b>&#8226; </b>This spell deals 5 damage to target creature with flying.
+<i>&#8220;These gods-given hands&#8217;ve worked yet another miracle! Ye&#8217;d better bloody well take care of it!&#8221;<br>///br///&#8212;Gerolt, legendary blacksmith</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0138
+2
+uncommon
+Chop Down
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Put two +1/+1 counters on target creature you control. Untap it. It gains your choice of hexproof, trample, or reach until end of turn.
+<i>It ain&#8217;t much, but it&#8217;s honest work.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0156
+4
+uncommon
+Synergize
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Draw a card for each creature in your party. Until end of turn, opponents can&#8217;t cast spells or activate activated abilities. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0161
+1
+rare
+Travelling Companion
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Bird 
+0
+2
+Discipline <i>(This creature gains abilities from its types. Whenever it enters or you put a counter on it, it gains your choice of these types.)</i><br>///br///<b>Cleric</b> | This creature gets +1/+1 for each basic land type from among lands you control.<br>///br///<b>Warrior </b>| Whenever this creature attacks, you may put a land card from your hand or graveyard onto the battlefield.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0135
+2
+rare
+Champion of the Harvest
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Dwarf Warrior 
+2
+3
+Whenever this creature deals damage to one or more permanents, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///Whenever an artifact you control leaves the battlefield, you gain 3 life.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0154
+3
+rare
+Senna, Seedseer Matron
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Dryad Cleric 
+1
+4
+You may play an additional land on each of your turns.<br>///br///You may play land cards from your graveyard.<br>///br///Whenever a permanent you control enters tapped, untap it.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0157
+4
+rare
+Tempestuous Eye
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+5
+4
+Whenever this enchantment enters or you attack with one or more Primals, create two 2/2 white Bird creature tokens. They are attacking if you are attacking. <br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: This enchantment becomes a legendary Primal creature in addition to its other types. Activate only as a sorcery. <i>(This effect lasts indefinitely.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0133
+2
+rare
+Blooming Morbol
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Plant Hydra 
+0
+0
+As this creature enters, choose X. You may choose the same mode more than once.<br>///br///<b>&#8226; </b>Search your library for a land card, reveal it, put it into your hand, then shuffle.<br>///br///<b>&#8226; </b>This creature enters with two additional +1/+1 counters on it.<br>///br///<b>&#8226; </b>You gain X life.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0150
+4
+rare
+Quieting Winds
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Destroy all artifacts, battles, and enchantments. You gain 2 life for each artifact, battle, and enchantment that left the battlefield this turn.
+<i>In a moment, it felt like the battle had stopped. Where there was once the clash of steel, there was only quiet.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0163
+5
+rare
+Unexpected Venture
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Target creature you control explores three times. If one or more +1/+1 counters are put on that creature this way, put that many +1/+1 counters on each other creature you control.
+<i>Some follow them in search of treasure. Some follow to dine on delicious vegetables.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0139
+2
+rare
+Coalesced Fate
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Exile a permanent card from your hand or in your graveyard. For as long as that card remains exiled, you may play it. Spells cast this way cost <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+fuse split
+0023
+2
+mythic rare
+Sylvan Grove
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever a land you control enters, target creature you control explores.
+
+Square Enix
+Illusory Thicket
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+Whenever a player casts a spell that targets a creature you control, draw a card.
+
+Square Enix
+===========
+fuse split
+0022
+4
+mythic rare
+Skirmish Point
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, each creature you control deals damage equal to its power to up to one other target permanent.
+
+Square Enix
+Seal Rock
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+Whenever a creature you control enters, draw a card if the total power of creatures you control is 8 or greater.
+
+Square Enix
+===========
+fuse split
+0021
+4
+mythic rare
+Frontier Vista
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+Whenever this side is cleared, search your library for up to two basic lands, put them onto the battlefield tapped, then shuffle.
+
+Square Enix
+Foothill Camp
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+When this side is cleared, return target permanent card from your graveyard to your hand.
+
+Square Enix
+===========
+fuse split
+0020
+4
+mythic rare
+Flourishing Respite
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment Battle — Path 
+
+
+When this side is cleared, put a permanent card from your hand onto the battlefield.
+
+Square Enix
+Jungle Longstop
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+Lands you control and land cards in your library are every basic land type in addition to their other types.
+
+Square Enix
+===========
+normal
+0183
+1
+common
+Return
+white, blue, hybrid, horizontal
+<img src='magic-mana-small-WU.png' alt='W/U' width='16' height='16'>
+Instant
+
+
+You may put a +1/+1 counter on target creature. That creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0184
+1
+common
+Chasing Knowledge
+blue, black, hybrid, horizontal
+<img src='magic-mana-small-UB.png' alt='U/B' width='16' height='16'>
+Instant
+
+
+Look at target player&#8217;s hand. Create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0185
+1
+common
+Warning Shot
+black, red, hybrid, horizontal
+<img src='magic-mana-small-BR.png' alt='B/R' width='16' height='16'>
+Instant
+
+
+Target attacking creature you control gets +2/+0. Amass 1. <i>(Put a +1/+1 counter on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0186
+1
+common
+Draw Aggression
+red, green, hybrid, horizontal
+<img src='magic-mana-small-RG.png' alt='R/G' width='16' height='16'>
+Instant
+
+
+Target creature gains haste until end of turn. That creature must attack or block this turn if able. Surveil 1. <i>(Look at the top card of your library. You may put it into your graveyard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0187
+1
+common
+Take A Look Inside
+white, green, hybrid, horizontal
+<img src='magic-mana-small-GW.png' alt='G/W' width='16' height='16'>
+Instant
+
+
+Reveal the top three cards of your library. Put a permanent card revealed this way into your hand and the rest on the bottom of your library in a random order.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0165
+3
+uncommon
+Godric, Aether Weaver
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Wizard 
+2
+2
+Flash<br>///br///<i>Unreal</i> &#8212; When this creature enters, any number of other creatures you control phase out. Skip each opponent&#8217;s next combat step if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0167
+6
+uncommon
+Selune, Trained Shadow
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Elf Rogue 
+3
+1
+As an additional cost to cast this spell, tap any number of artifacts you control. This spell costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast for each artifact tapped this way.<br>///br///This creature can&#8217;t be blocked if an artifact entered under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0168
+2
+uncommon
+Bellona, Cruel Thorn
+black, red, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Soldier 
+1
+1
+Double strike<br>///br///At the beginning of your end step, amass 2 if a counter was removed from a permanent you control. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0170
+4
+uncommon
+Rostnfyr, Wild Axe
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Giant Warrior 
+4
+5
+Permanent spells you cast can&#8217;t be countered.<br>///br///Whenever this creature deals damage to one or more permanents, untap all lands you control.
+<i>&#8220;If I bleed, so shall the realm.&#8221;</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0172
+2
+uncommon
+Lakshai, Sun Seeker
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Cat Cleric 
+2
+2
+Other creatures you control get +1/+1 if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Untap another target permanent you control. Activate only as a sorcery.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0174
+3
+uncommon
+Hildebrand, Gentleman Heir
+white, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human 
+3
+2
+When this creature enters, return up to one target card with cycling in your graveyard to your hand.<br>///br///Whenever you cycle or discard a card, each opponent loses 1 life and you gain 1 life.
+<i>He&#8217;s a Manderville man, and he&#8217;s doing what only a Manderville can.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0175
+4
+uncommon
+Mutamix, Materia Savant
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Goblin 
+2
+2
+Whenever a nontoken artifact you control enters, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///<i>Unreal</i> &#8212; Sacrifice an artifact: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>. Activate only if a permanent phased in or was created under your control this turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0177
+5
+uncommon
+Echidna, Ark Remnant
+black, green, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Horror 
+5
+1
+Whenever this creature dies, target opponent discards two cards.<br>///br///Whenever a creature you control explores, you may return this card from your graveyard to your hand.
+<i>The vessel showed no signs of life, but that never meant it was safe to board.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0179
+3
+uncommon
+Nezha, Crimson Cloak
+white, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Bird 
+3
+2
+This creature gets +1/+0 for each other Bird you control if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, Discard a card: Create a 2/2 white Bird creature token. Activate only as a sorcery.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0181
+4
+uncommon
+Arnr, Veteran Adventurer
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human 
+2
+2
+This creature is also a Cleric, Rogue, Warrior, and Wizard.<br>///br///When this creature enters, choose a party from among all creatures. Put a +1/+1 counter on each of those creatures. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0164
+4
+rare
+Antecedent's Legacy
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Flash<br>///br///When this enchantment enters, exile target spell you don&#8217;t control.<br>///br///You may cast the exiled card on your turn, and mana of any type can be spent to cast it.
+<i>&#8220;There is an art that allows one to summon the power of a primal. It is all I have left, so I give it to you.&#8221;<br>///br///&#8212;Louisoix Leveilleur, last words</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0166
+2
+rare
+Magitek Vanguard
+blue, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact — Vehicle 
+3
+3
+Vigilance<br>///br///When this artifact enters, target opponent reveals their hand. You choose a nonland card from it. Exile that card until this artifact leaves the battlefield.<br>///br///Crew 3 <i>(Tap creatures you control with total power 3 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0169
+6
+rare
+Legion Flagship
+black, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact — Vehicle 
+6
+6
+Flying<br>///br///Whenever an artifact you control becomes tapped, amass 2. <i>(Put two +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i><br>///br///Crew 4 <i>(Tap creatures you control with total power 4 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0024
+3
+rare
+Ajani, in a Strange Land
+red, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Planeswalker — Ajani 
+
+
+Lands enter tapped.<br>///br///+1: Up to one target creature you control explores. That creature must be blocked this turn if able.<br>///br///-2: Ajani deals 3 damage to target permanent. You gain 3 life. If excess damage is dealt this way, create a Map token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&#8221;)</i><br>///br///Starting loyalty: 3
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0171
+5
+rare
+Gilded Wake
+white, green, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Whenever a creature you control enters, that creature explores if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///Whenever you tap a land for mana, add one mana of any color.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0173
+5
+rare
+Astral Fortune
+white, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Limit Break <i>(You may break your limits as this resolves. Do this only once a game.)</i><br>///br///Return target permanent card from a graveyard to the battlefield. If this spell broke your limits, each opponent loses life to that permanent&#8217;s mana value.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0176
+4
+rare
+Vermillion Pledge
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Limit Break <i>(You may break your limits as this resolves. Do this only once a game.)</i><br>///br///Copy the next instant or sorcery spell you cast this turn. If this spell broke your limits, copy it again. You may choose new targets for the copies.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0178
+4
+rare
+Precise Execution
+black, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Limit Break <i>(You may break your limits as this resolves. Do this only once a game.)</i><br>///br///Destroy target permanent you don&#8217;t control. If this spell broke your limits, exile all cards in the graveyard of that card&#8217;s controller.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0180
+3
+rare
+Thunderous Applause
+white, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Limit Break <i>(You may break your limits as this resolves. Do this only once a game.)</i><br>///br///This spell deals 3 damage to any target. You gain 3 life. If this spell broke your limits, return this spell to its owner&#8217;s hand.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0182
+6
+rare
+Surging Aether
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Limit Break <i>(You may break your limits as this resolves. Do this only once a game.)</i><br>///br///Take an extra turn after this one, then put this card on the bottom of your library. If this spell broke your limits, shuffle your graveyard into your library.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0198
+2
+common
+Wind-Up Flock
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact Creature — Bird 
+
+
+When you cycle this card or this creature enters, target player puts their graveyard on the bottom of their library in a random order.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0194
+5
+common
+Otherworldly Shape
+artifact
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Artifact — Creature 
+2
+4
+Flying<br>///br///Discard a card: Target creature you control becomes a Cleric, Rogue, Warrior, and Wizard in addition to its other types until end of turn. Activate only once each turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0188
+3
+common
+Company Airship
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact — Vehicle 
+
+
+Flying, vigilance<br>///br///When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.<br>///br///Crew 1 <i>(Tap creatures you control with total power 1 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0197
+1
+common
+Tonberry Knife
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact — Equipment 
+
+
+When equipped creature becomes blocked, sacrifice this artifact. When you do, this artifact deals 9999 damage to each creature blocking equipped creature.<br>///br///Equipped creature gets +2/+0.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Attach to target creature you control. Equip only as a sorcery.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0193
+7
+uncommon
+Moonshard Golem
+artifact
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'>
+Artifact Creature — Construct 
+4
+3
+When this creature enters, you may have it deal 4 damage to another target permanent.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+<i>Many yalms below the surface, the party made its way through the main bridge. But Dalamud would not allow easy passage.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0195
+4
+uncommon
+Prototype Walker
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact — Vehicle 
+5
+5
+Tap an Army creature you control: Target Vehicle you control becomes an artifact creature until end of turn.<br>///br///Crew 3 <i>(Tap creatures you control with total power 3 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0191
+1
+uncommon
+Icarus Engine
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature has flying.<br>///br///Whenever equipped creature attacks, it explores if you are boosted. <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i><br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Attach to target creature you control. Equip only as a sorcery.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0196
+3
+uncommon
+Soul Crystals
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Draw a card. This ability costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to activate for each creature in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0189
+6
+rare
+Cruise Chaser
+artifact
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Artifact Creature — Construct 
+6
+6
+Flying<br>///br///During each opponent&#8217;s turns, you are boosted if you were were boosted on your last turn.<b> <i>(Activating abilities that aren&#8217;t mana abilities, putting counters, and defeating battles boosts you for the turn.)</i></b><br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>: End the turn if it&#8217;s your turn.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0192
+2
+rare
+Manacutter
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Vehicle 
+
+
+Flying, double strike<br>///br///Whenever you cycle or discard a card, this artifact becomes an artifact creature until end of turn. It explores.<br>///br///Crew 1 <i>(Tap creatures you control with total power 1 or more: This artifact becomes an artifact creature until end of turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0190
+2
+rare
+Heirloom Jitte
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Equipment 
+
+
+<i>Unreal</i> &#8212; At the beginning of your combat, choose up to one. Instead choose any number if a permanent phased in or was created under your control this turn.<br>///br///<b>&#8226; </b>Attach this artifact to target creature you control.<br>///br///<b>&#8226; </b>Put a +1/+1 counter on equipped creature.<br>///br///<b>&#8226; </b>Target creature phases out. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0001
+5
+rare
+Cid Garlond
+colorless
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Legendary Planeswalker — Cid 
+
+
+Whenever a noncreature permanent you control becomes a creature, draw a card.<br>///br///+2: Until your next turn, target artifact you control becomes an artifact creature until end of turn. If it&#8217;s a Vehicle, put two +1/+1 counters on that creature. Otherwise, it has base power and toughness 2/2.<br>///br///-3: Each player plays with the top card of their library revealed this turn. You may play artifact and colorless cards revealed this way. <i>(Land cards are colorless.)</i><br>///br///Starting loyalty: 4
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0202
+0
+common
+Derelict Monastery
+white, black, land, horizontal
+
+Land — Plains Swamp 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.)</i><br>///br///This land enters tapped.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0208
+0
+common
+Iridescent Enclave
+blue, red, land, horizontal
+
+Land — Island Mountain 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.)</i><br>///br///This land enters tapped.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0211
+0
+common
+Secluded Copse
+black, green, land, horizontal
+
+Land — Swamp Forest 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.)</i><br>///br///This land enters tapped.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0201
+0
+common
+Dawnbreak Bastion
+white, red, land, horizontal
+
+Land — Mountain Plains 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.)</i><br>///br///This land enters tapped.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0209
+0
+common
+Lakeside Estate
+blue, green, land, horizontal
+
+Land — Forest Island 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.)</i><br>///br///This land enters tapped.<br>///br///Cycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Draw a card.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0207
+0
+common
+Imperial Outpost
+land
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>, Sacrifice this land. Amass 3. Activate only as a sorcery. <i>(Put three +1/+1 counters on an Army you control. If you don&#8217;t have one, create a 0/0 black Army creature token first.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0210
+0
+uncommon
+Lifeless Expanse
+white, black, land, horizontal
+
+Land
+
+
+This land enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this land: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle. 
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0214
+0
+uncommon
+Vibrant Sandbar
+blue, red, land, horizontal
+
+Land
+
+
+This land enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0204
+0
+uncommon
+Gnarled Brambles
+black, green, land, horizontal
+
+Land
+
+
+This land enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0216
+0
+uncommon
+Weathered Outpost
+white, red, land, horizontal
+
+Land
+
+
+This land enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this land: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0203
+0
+uncommon
+Forgotten Stream
+blue, green, land, horizontal
+
+Land
+
+
+This land enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0205
+0
+uncommon
+Hall of the Novice
+land, multicolor
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>, Tap an untapped creature you control: That creature explores. Activate only as a sorcery.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0206
+0
+rare
+Hallowed Fountain
+white, blue, land, horizontal
+
+Land — Plains Island 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.)</i><br>///br///As this land enters, you may pay 2 life. If you don&#8217;t it enters tapped.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0215
+0
+rare
+Watery Grave
+blue, black, land, horizontal
+
+Land — Island Swamp 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.)</i><br>///br///As this land enters, you may pay 2 life. If you don&#8217;t it enters tapped.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0200
+0
+rare
+Blood Crypt
+black, red, land, horizontal
+
+Land — Swamp Mountain 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.)</i><br>///br///As this land enters, you may pay 2 life. If you don&#8217;t it enters tapped.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0212
+0
+rare
+Stomping Grounds
+red, green, land, horizontal
+
+Land — Mountain Forest 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.)</i><br>///br///As this land enters, you may pay 2 life. If you don&#8217;t it enters tapped.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0213
+0
+rare
+Temple Garden
+white, green, land, horizontal
+
+Land — Forest Plains 
+
+
+<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.)</i><br>///br///As this land enters, you may pay 2 life. If you don&#8217;t it enters tapped.
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0199
+0
+rare
+The Aethersea
+land, multicolor
+
+Legendary Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add X mana in any combination of colors, where X is the number of creatures in your party. <i>(Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</i>
+<i>Hear. Think. Feel.</i>
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0217
+0
+basic land
+Plains
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0218
+0
+basic land
+Island
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0219
+0
+basic land
+Swamp
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0220
+0
+basic land
+Mountain
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0221
+0
+basic land
+Forest
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
+normal
+0098
+2
+uncommon
+Armored Panther
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Cat 
+4
+3
+<i>Unreal</i> &#8212; Whenever this creature attacks, target creature you control phases out unless a permanent phased in or was created under your control this turn. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+Square Enix
+
+colorless
+
+
+
+
+
+
+Square Enix
+===========
