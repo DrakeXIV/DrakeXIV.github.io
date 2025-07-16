@@ -2287,26 +2287,26 @@
 		1 Lakeside Estate
 		1 The Aethersea
 	[BattleSlot(1)]
-		1 Desert Racetrack
-		1 Casino Gaol
-		1 Thornmarch
-		1 Crystalline Floe
-		1 Syrcus Tower
-		1 Nymian Remnant
-		1 Relict Tower
-		1 Sastasha Seagrot
-		1 Dun Scaith
-		1 Haukke Manor
-		1 Stone Vigil
-		1 Carteneau Flats
-		1 Ruby Avenue
-		1 Echoing Roars
-		1 Last Bastion
-		1 Burning Pyre
-		1 Vibrant Respite
-		1 Seal Rock
-		1 Frontier Vista
-		1 Sylvan Grove
+		2 Desert Racetrack
+		2 Casino Gaol
+		2 Thornmarch
+		2 Crystalline Floe
+		2 Syrcus Tower
+		2 Nymian Remnant
+		2 Relict Tower
+		2 Sastasha Seagrot
+		2 Dun Scaith
+		2 Haukke Manor
+		2 Stone Vigil
+		2 Carteneau Flats
+		2 Ruby Avenue
+		2 Echoing Roars
+		2 Last Bastion
+		2 Burning Pyre
+		2 Vibrant Respite
+		2 Seal Rock
+		2 Frontier Vista
+		2 Sylvan Grove
 	[UncommonSlot(3)]
 		2 Jack of All Trades
 		2 Chocobo Endowment
